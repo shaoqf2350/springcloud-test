@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb93239f-be74-4db8-beb1-9ad467eb629e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-test.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/cloud-provider-payment02/target/" />
@@ -62,6 +57,16 @@
           <entry key="YAML" value="10" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FavoritesManager">
@@ -81,8 +86,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cloud-consumer-payment/src/main/java/com/codeliu/consumer/payment/controller/OrderController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            <state relative-caret-position="280">
+              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -143,6 +148,7 @@
     <option name="height" value="885" />
   </component>
   <component name="ProjectId" id="1uerZv4iEbolGvQ1kipRChf4VV6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -156,6 +162,69 @@
             <path>
               <item name="springcloud-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-test" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-api-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-test" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-test" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-test" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-test" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="codeliu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-test" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="codeliu" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-test" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="codeliu" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-test" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,7 +245,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1701576154195" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1701576192911" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RebelAgentSelection">
@@ -307,16 +376,30 @@
       <workItem from="1701410018812" duration="4522000" />
       <workItem from="1701419071855" duration="6001000" />
       <workItem from="1701444239501" duration="1326000" />
-      <workItem from="1701514119863" duration="2375000" />
+      <workItem from="1701514119863" duration="2529000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1701576178375</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701576178375</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1701576200944</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701576200944</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14224000" />
+    <option name="totallyTimeSpent" value="14378000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1048" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1048" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49839744" visible="true" weight="0.15351813" />
       <window_info id="Structure" order="1" sideWeight="0.5016026" side_tool="true" weight="0.15031983" />
@@ -359,6 +442,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cloud-nacos-consumer/pom.xml">
@@ -489,8 +576,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cloud-consumer-payment/src/main/java/com/codeliu/consumer/payment/controller/OrderController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        <state relative-caret-position="280">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
         </state>
       </provider>
     </entry>
